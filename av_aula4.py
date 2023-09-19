@@ -13,4 +13,4 @@ while True:
     media = soma / quantidade
 print(f''' A quantidade de números digitados é {quantidade}
       A soma dos números resultam em {soma}
-      A média aritmétrica é {media}''')
+      A média aritmétrica é {media:10.2f}''')
